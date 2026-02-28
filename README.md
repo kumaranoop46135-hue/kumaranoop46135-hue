@@ -7,7 +7,8 @@
 - 🌱 I’m currently learning **Linux, Docker, AWS, Kubernetes**
 - 🎓 IoT Student
 - ⚙️ Interested in DevOps & Cloud
-- 📫 Email: yourmail@gmail.com
+- 📫 Email: kumaranoop46135@gmail.com
+- 
 
 ---
 

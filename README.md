@@ -1,24 +1,44 @@
-<h1 align="center">Hi 👋, I'm Anoop Kumar</h1>
-<h3 align="center">Aspiring DevOps & IoT Engineer</h3>
+
+## 🚀 About Me
+- 🎓 IoT Student  
+- ☁️ Learning **AWS, Docker, Linux**
+- 🔧 Future **DevOps Engineer**
+- 🌱 Currently learning **Cloud & Automation**
 
 ---
 
-## 👨‍💻 About Me
-- 🌱 I’m currently learning **Linux, Docker, AWS, Kubernetes**
-- 🎓 IoT Student
-- ⚙️ Interested in DevOps & Cloud
-- 📫 Email: kumaranoop46135@gmail.com
-- 
+## 🛠️ Skills
 
----
-
-## 🚀 Tech Stack
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,docker,aws,git,github,c,cpp" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://instagram.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+</p>
+
+---
+
+## 🔥 Animated Visitor Counter
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=for-the-badge"/>
+</p>

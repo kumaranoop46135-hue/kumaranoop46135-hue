@@ -30,8 +30,8 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://instagram.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=instagram" />
+<a href="www.linkedin.com/in/anoop-kumar-0b12ab36b">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 </p>
 
